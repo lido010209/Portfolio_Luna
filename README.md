@@ -10,7 +10,7 @@
 
 - ✉️ E-Mail: <b>liendhhha140217@gmail.com</b>
 
-- 🚀 Goal: <b>Full stack Web Developer</b>
+- 🚀 Goal: <b>Full-stack Web Developer</b>
 
 ![alt text](image.png)
 
@@ -53,8 +53,6 @@
 ### <b>🗣 Other Skills</b>
 > 🌼 Language skills: <b>English, Korean, Vietnamese, Japanese</b></br>
 🌸 Soft skill: <b>Time Management, Problem-solving skills</b></br>
-
-
 
 
 ## 💻 <b>Projects</b>
