@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Luna!
 
+![alt text](myself.png)
+
 <h2> <strong>🥰 Introduction</strong>  </h2>
 
 - 🤩 Full name: <b>Do Hoang Huong Lien</b>
