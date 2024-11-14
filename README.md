@@ -10,8 +10,6 @@
 
 - ✉️ E-Mail: <b>liendhhha140217@gmail.com</b>
 
-- 📷 Instagram: <b>[Luna Do](https://www.instagram.com/lido_010209)</b>
-
 - 🚀 Goal: <b>Full stack Web Developer</b>
 
 ![alt text](image.png)
