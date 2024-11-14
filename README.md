@@ -1,6 +1,5 @@
 # 👋 Hi there, I'm Luna!
 
-![alt text](myself.png)
 
 <h2> <strong>🥰 Introduction</strong>  </h2>
 
