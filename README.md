@@ -261,7 +261,7 @@
       - Secure user registration and login, with support for traditional login as well as third-party authentication via Kakao and Naver.
       - Users can choose to log in using their Kakao or Naver accounts for a seamless experience.
 
-    2. **Landmark Information:**
+  2. **Landmark Information:**
         - Integration with the Tour API to fetch detailed information about popular landmarks and attractions in Seoul, including descriptions, images, and visitor details.
 
   3. **Address Searching:**
