@@ -10,6 +10,8 @@
 
 - ✉️ E-Mail: <b>liendhhha140217@gmail.com</b>
 
+- ⛳ Country: Vietnam 
+
 - 🚀 Goal: <b>Full stack Web Developer</b>
 
 ![alt text](image.png)
@@ -57,13 +59,11 @@
 
   > - **English**: Fluent
   > - **Korean**: Daily conversation
-  > - **Vietnamese**: Native
   > - **Japanese**: Daily conversation
 
 
 <img align="left" alt="English" width="40px" style="padding-right:10px;" src="english.png" />
 <img align="left" alt="Korean" width="40px" style="padding-right:10px;" src="korean.png" />
-<img align="left" alt="Vietnamese" width="40px" style="padding-right:10px;" src="vietnamese.png" />
 <img align="left" alt="Japanese" width="40px" style="padding-right:10px;" src="japanese.png" />
 <br><br>
 
