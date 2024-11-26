@@ -75,56 +75,7 @@
 
 <h3><b>👨‍💻 Full Stack Web Application</b></h3>
 
-### 1. Project Title: [Board & Article Web Application](https://github.com/lido010209/ktech-spring-project-2.git)
-
-- **Technologies Used**
-    > <b>Backend</b>: 
-    >- **Java**: Programming language for backend logic.
-    >- **Spring Boot**: Framework for building stand-alone, production-ready applications.
-    >- **JPA (Java Persistence API)**: For mapping Java objects to database tables.
-    >- **Spring MVC**: For handling HTTP requests and responses.
-
-
-    > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <br><br>
-
-    > <b>Database</b>:
-    >- **SQLite**: A lightweight database used for data storage.
-
-    
-    > <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-    <br><br>
-
-    > **Frontend:**
-    >- **HTML**: Markup language for structuring the web pages.
-    >- **Bootstrap**: Framework for responsive design.
-    >- **Canva**: Tool used for creating design elements.
-
-    > <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-    > <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-    > <img align="left" alt="Canva" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-
-  <br><br>
-
-- **Feature**
-  1. **Boards:**
-      - The application supports four different types of boards where articles can be categorized based on themes or topics.
-
-  2. **Articles:**
-      - Users can create, update, read, and delete articles (CRUD operations).
-      - Each article can have multiple associated comments.
-
-  3. **Comments:**
-      - Users can create, delete, and read comments on specific articles (CRUD operations).
-      - Each comment is linked to its respective article.
-
-  4. **User Authentication for Editing:**
-      - When creating an article or a comment, users must set up a password.
-      - To edit or delete an article/comment, users must input the correct password for authentication, ensuring security and accountability.
-
-
-### 2. Project Title: [Shopping Mall Web Application](https://github.com/lido010209/ktech-java-project-3.git)
+### 1. Project Title: [Shopping Mall Web Application](https://github.com/lido010209/ktech-java-project-3.git)
 
 - **Technologies Used**
 
@@ -133,15 +84,10 @@
   >- **Spring Boot**: Framework for building scalable applications.
   >- **Spring Security**: For implementing security, including user authentication.
   >- **JWT (JSON Web Tokens)**: For secure token-based user authentication.
+  >- **SQLite**: A lightweight database used for data storage.
 
   > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-  <br><br>
-
-  > <b>Database</b>:
-  >- **SQLite**: A lightweight database used for data storage.
-  
   > <img align="left" alt="SQLite" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 
   <br><br>
@@ -197,7 +143,7 @@
       - Utilized JavaScript's Fetch API to retrieve and send data between the client and server.
       - Implemented asynchronous requests to improve user experience during product searches, order placements, and shop management.
 
-### 3. Project Title: [Seoul Travel Web Application]()
+### 2. Project Title: [Seoul Travel Web Application](https://github.com/lido010209/Seoul_travel_project)
 
 - **Technologies Used**
 
@@ -206,9 +152,11 @@
   >- **Spring Boot**: Framework for building scalable applications.
   >- **Spring Security**: For implementing security, including user authentication.
   >- **JWT (JSON Web Tokens)**: For secure token-based user authentication.
+  >- **SQLite**: An effective database used for data storage.
 
   > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  > <img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 
   <br><br>
 
@@ -227,12 +175,6 @@
 
   <br><br><br>
 
-  > <b>Database</b>:
-  >- **MySQL**: An effective database used for data storage.
-  
-  > <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
-  <br><br>
   > Frontend: <br>
   >- **HTML**: Markup language for structuring web pages.
   >- **Bootstrap**: Framework for creating responsive and visually appealing designs.
@@ -279,6 +221,63 @@
       - Display information about each place when hovered over or clicked.
       - Draw lines on the map according to the paths retrieved from the backend, showing routes and directions clearly.
 
+### 3. Project Title: [Real-Time Chat Web Application](https://github.com/lido010209/Chatting_Project)
+
+- **Technologies Used**
+
+  > **Backend:**
+  >- **Java**: Programming language for backend development.
+  >- **Spring Boot**: Framework for building scalable applications.
+  >- **Spring Security**: For implementing security, including user authentication.
+  >- **JWT (JSON Web Tokens)**: For secure token-based user authentication.
+  >- **Web Socket**: Implemented for real-time communication.
+  >- **MySQL**: An effective database used for data storage.
+
+  > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  > <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+  <br><br>
+
+  > **External APIs:**
+  > - **Kakao Login API**: For enabling user authentication via Kakao accounts.
+  > - **Naver Login API**: For user authentication through Naver accounts.
+
+  > <img align="left" alt="login" height="60px" style="padding-right:10px;" src="login.png" />
+
+  <br><br><br>
+
+  > Frontend: <br>
+  >- **React JS**: A JavaScript library for building user interfaces.
+  >- **Bootstrap**: Framework for creating responsive and visually appealing designs.
+  >- **Axios**: JavaScript library used to make HTTP requests to the backend RESTful APIs.
+
+    > <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    > <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    > <img align="left" alt="Canva" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+
+    </br></br>
+
+  > **API Testing:**
+  >- **Postman**: Tool used for testing the RESTful APIs to ensure functionality and reliability.
+
+  ><img align="left" alt="Postman" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" />
+
+  <br><br><br>
+
+- **Feature**
+1. **User Authentication:**
+   - Implemented secure login systems with third-party integrations, including **Naver** and **Kakao** login.
+   - Users can authenticate through Naver or Kakao accounts, simplifying the sign-in process.
+   - Used **JWT** (JSON Web Tokens) for secure session management and to maintain authentication status across requests.
+
+2. **Real-time Messaging:**
+   - Integrated **WebSocket** for real-time message exchange, ensuring low latency and fast communication.
+   - Enabled users to participate in group chats and private one-on-one chats.
+   - 
+3. **Database Management:**
+   - Used **MySQL** to store user information, chat history, and metadata.
+   - Implemented **JPA** for efficient database interaction and management.
 
 
 <h3><b>👨‍💻 Machine Learning</b></h3>
@@ -296,15 +295,15 @@
 
 - **Methodology**
   1. **Data Understanding and Preparation:**
-      - Conducted exploratory data analysis (EDA) to explore the dataset's characteristics and distributions.
-      - Preprocessed the data by handling missing values, converting categorical variables into numerical formats, and normalizing continuous features where necessary.
+      - Conducted exploratory data analysis (EDA).
+      - Preprocessed data by handling missing values, encoding categorical variables, and normalizing features.
 
   2. **Model Building and Evaluation:**
-      - Built a logistic regression model to assign a lead score from 0 to 100 for each lead, predicting their likelihood of conversion.
-      - Evaluated the model's performance using metrics such as accuracy, precision, recall, and the F1 score to ensure it met the business needs.
+      - Built a logistic regression model to assign lead scores predicting conversion likelihood.
+      - Evaluated performance using accuracy, precision, recall, and F1 score.
 
   3. **Adjustability for Future Requirements:**
-      - Developed the model with considerations for potential future changes in the company's objectives, allowing for easy adjustments based on evolving data or requirements.
+      - Designed the model for easy adjustments to accommodate evolving data and business objectives.
 
 
 
