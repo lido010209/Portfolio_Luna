@@ -10,8 +10,6 @@
 
 - ✉️ E-Mail: <b>liendhhha140217@gmail.com</b>
 
-- ⛳ Country: Vietnam 
-
 - 🚀 Goal: <b>Full stack Web Developer</b>
 
 ![alt text](image.png)
@@ -67,9 +65,12 @@
 <br><br>
 
 ### <b>🌸 Soft Skills</b>
-> - <b>Time Management</b>
-> - <b>Problem-solving</b>
-> - <b>Adaptability</b>
+> - <b>Time Management</b>: Effective time management is essential for balancing multiple tasks and meeting deadlines. I prioritize tasks based on urgency and importance, using tools like calendars and task management apps to stay organized. By setting clear goals and breaking down large projects into smaller, manageable tasks, I ensure that I stay on track and make efficient use of my time. This allows me to maintain a high level of productivity while reducing stress. Regular reviews of my progress help me adjust timelines and approaches to stay on schedule.
+  
+> - <b>Adaptability</b>: Adaptability is the ability to adjust to new environments, challenges, or changes in a way that maintains effectiveness and efficiency. I embrace change with a positive attitude, recognizing it as an opportunity for growth and development. Whether it’s adopting new technologies, working with diverse teams, or adjusting to shifting priorities, I remain flexible and open-minded. I am comfortable stepping out of my comfort zone, as it allows me to expand my skills and remain relevant in dynamic work environments. 
+
+> - <b>Problem-solving</b>: Problem-solving is a crucial skill that enables me to approach challenges systematically and find creative solutions. I break down complex problems into smaller, manageable components and gather all relevant information before making decisions. I collaborate with others when necessary to gain different perspectives, which often leads to more effective solutions.
+
 
 ## 💻 <b>Projects</b>
 
