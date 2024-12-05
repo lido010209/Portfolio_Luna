@@ -204,7 +204,7 @@
 
   <br><br><br>
 
-### 4. Project Title: [Calling Web Application](https://github.com/lido010209/Chatting_Project)
+### 4. Project Title: [Calling Web Application](https://github.com/lido010209/Webrtc_project)
 
 - **Technologies Used**
 
@@ -220,7 +220,7 @@
   > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   > <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  > <img align="left" alt="webrtc" height="50px" style="padding-right:10px;" src="webrtc.png" />
+  > <img align="left" alt="webrtc" height="40px" style="padding-right:10px;" src="webrtc.png" />
   <br><br>
 
   > Frontend: <br>
