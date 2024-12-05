@@ -175,7 +175,7 @@
   > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   > <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-
+  > <img align="left" alt="websocket" height="50px" style="padding-right:10px;" src="websocket.png" />
   <br><br>
 
   > **External APIs:**
@@ -192,6 +192,43 @@
   >- **Axios**: JavaScript library used to make HTTP requests to the backend RESTful APIs.
 
     > <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    > <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    > <img align="left" alt="Canva" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+
+    </br></br>
+
+  > **API Testing:**
+  >- **Postman**: Tool used for testing the RESTful APIs to ensure functionality and reliability.
+
+  ><img align="left" alt="Postman" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" />
+
+  <br><br><br>
+
+### 4. Project Title: [Calling Web Application](https://github.com/lido010209/Chatting_Project)
+
+- **Technologies Used**
+
+  > **Backend:**
+  >- **Java**: Programming language for backend development.
+  >- **Spring Boot**: Framework for building scalable applications.
+  >- **Spring Security**: For implementing security, including user authentication.
+  >- **JWT (JSON Web Tokens)**: For secure token-based user authentication.
+  >- **Web Socket**: Implemented for real-time communication.
+  >- **Web RTC**: Implemented for real-time communication.
+  >- **MongoDB**: An effective database used for data storage.
+
+  > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  > <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  > <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  > <img align="left" alt="webrtc" height="50px" style="padding-right:10px;" src="webrtc.png" />
+  <br><br>
+
+  > Frontend: <br>
+  >- **Vue JS**: A JavaScript library for building user interfaces.
+  >- **Bootstrap**: Framework for creating responsive and visually appealing designs.
+  >- **Axios**: JavaScript library used to make HTTP requests to the backend RESTful APIs.
+
+    > <img align="left" alt="VueJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
     > <img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
     > <img align="left" alt="Canva" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 
