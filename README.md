@@ -6,8 +6,6 @@
 
 - 🤩 Full name: <b>Do Hoang Huong Lien</b>
 
-- 🎂 Date of birth: <b>2000/12/09</b>
-
 - ✉️ E-Mail: <b>liendhhha140217@gmail.com</b>
 
 <h2> <strong>🎓 Education</strong>  </h2>
