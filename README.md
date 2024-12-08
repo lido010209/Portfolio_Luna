@@ -134,6 +134,7 @@
   > <img align="left" alt="Odsay" height="60px" style="padding-right:10px;" src="odsay.png" />
   > <img align="left" alt="Ncloud" height="60px" style="padding-right:10px;" src="ncloud.png" />
   > <img align="left" alt="login" height="60px" style="padding-right:10px;" src="login.png" />
+  > <img align="left" alt="Toss" height="60px" style="padding-right:10px;" src="toss.png" />
 
   <br><br><br>
 
