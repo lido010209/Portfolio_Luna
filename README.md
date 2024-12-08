@@ -126,6 +126,7 @@
   > - **Naver Search API**: To enable users to search for addresses effectively.
   > - **Odsay API**: To obtain information about transportation routes, including paths, times, and fees.
   > - **NCloud Directions 5**: For generating car routes and navigation.
+  > - **Toss payment API**: For payment function.
   > - **Kakao Login API**: For enabling user authentication via Kakao accounts.
   > - **Naver Login API**: For user authentication through Naver accounts.
 
@@ -212,7 +213,7 @@
   >- **Spring Security**: For implementing security, including user authentication.
   >- **JWT (JSON Web Tokens)**: For secure token-based user authentication.
   >- **Web Socket**: Implemented for real-time communication.
-  >- **Web RTC**: Implemented for real-time communication.
+  >- **Web RTC**: Integrated for real-time peer-to-peer communication, enabling high-quality audio and video calls.
   >- **MongoDB**: An effective database used for data storage.
 
   > <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
